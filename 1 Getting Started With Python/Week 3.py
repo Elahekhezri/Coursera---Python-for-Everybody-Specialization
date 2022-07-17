@@ -1,4 +1,5 @@
-#Assignment Description: Write a program that uses a print statement to say 'hello world' as shown in 'Desired Output'.
-#Assignment Answer:
+# Assignment: Write a program that uses a print statement to say 'hello world' as shown in 'Desired Output'.
+
+# Answer:
 
 print("hello world")
