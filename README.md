@@ -1,5 +1,4 @@
-# Coursera---Python-for-Everybody-Specialization-Assignments
-Coursera - Python for Everybody Specialization Assignments with Answers
+# Coursera - Python for Everybody Specialization Assignments with Answers
 
 These answers are for those who:
 - want to compare their solutions with others
